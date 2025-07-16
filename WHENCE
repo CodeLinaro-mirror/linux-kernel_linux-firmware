@@ -6624,6 +6624,8 @@ File: qcom/qcs8300/cdsp0.mbn
 Version: DSP.AT.1.0.1-00125.5-LEMANS-1
 RawFile: qcom/qcs8300/cdspr.jsn
 File: qcom/qcs8300/gpdsp0.mbn
+RawFile: qcom/qcs8300/gpdspr.jsn
+RawFile: qcom/qcs8300/gpdspua.jsn
 Version: DSP.AT.1.0.1-00125.5-LEMANS-1
 
 Licence: Redistributable. See LICENSE.qcom-2 and qcom/NOTICE.txt for details
