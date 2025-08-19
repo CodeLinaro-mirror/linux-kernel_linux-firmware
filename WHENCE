@@ -6494,6 +6494,9 @@ RawFile: qcom/qcm6490/battmgr.jsn
 File: qcom/qcm6490/cdsp.mbn
 Version: CDSP.HT.2.5.c3-00077-KODIAK-1
 RawFile: qcom/qcm6490/cdspr.jsn
+File: qcom/qcs615/cdsp.mbn
+Version: CDSP.VT.2.2.c4-00019-SM6150-1
+RawFile: qcom/qcs615/cdspr.jsn
 File: qcom/qcm6490/ipa_fws.mbn
 Link: qcom/qcs6490/adsp.mbn -> ../qcm6490/adsp.mbn
 Link: qcom/qcs6490/adspr.jsn -> ../qcm6490/adspr.jsn
