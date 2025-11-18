@@ -6603,6 +6603,17 @@ File: qcom/apq8096/mba.mbn
 File: qcom/apq8096/modem.mbn
 Version: MPSS.TH.2.0.1-00481
 RawFile: qcom/apq8096/modemr.jsn
+File: qcom/sm8750/adsp.mbn
+File: qcom/sm8750/adsp_dtb.mbn
+Version: LPAIDSP.HT.1.2.c1-00379-PAKALA-1
+RawFile: qcom/sm8750/adspr.jsn
+RawFile: qcom/sm8750/adsps.jsn
+RawFile: qcom/sm8750/adspua.jsn
+RawFile: qcom/sm8750/adspuo.jsn
+File: qcom/sm8750/cdsp.mbn
+File: qcom/sm8750/cdsp_dtb.mbn
+Version: CDSP.HT.3.1-00883-PAKALA-1
+RawFile: qcom/kaanapali/cdspr.jsn
 File: qcom/kaanapali/adsp.mbn
 File: qcom/kaanapali/adsp_dtb.mbn
 Version: LPAIDSP.HT.1.2-00769-KAANAPALI-1
